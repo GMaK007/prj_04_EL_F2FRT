@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 21 09:59:53 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0162-48db-e446-000013170868 
+on database directory C:\Users\meswaran\OneDrive\Learn\Scala\IDEProjects\prj_04_EL_F2FRT\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7f1fec57 
+Loaded from file:/C:/opt/spark/spark-2.3.0-bin-hadoop2.6/spark-2.3.0-bin-hadoop2.6/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\meswaran\OneDrive\Learn\Scala\IDEProjects\prj_04_EL_F2FRT
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
